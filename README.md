@@ -7,10 +7,10 @@ This repository is to implement a SLAM procedure that allow robot to localize it
 The picture below is hallway with three landmark set on it.
 
 <p align='center'>
-    <img src="/ekf_1D/hallway.png" alt="drawing" width="400"/>
+    <img src="hallway.png" alt="drawing" width="400"/>
 </p>
 
 In this simulation, the moving triangle are simulated robot and estimated location of that moving robot. The cross signs are landmark which are set up first. With robot moving along the path, the estimated location of robot and landmark and its corresponding covariance.
 <!--
-[![Watch the video](/ekf_1D/1_D.gif)]
+[![Watch the video](1_D.gif)]
 -->
