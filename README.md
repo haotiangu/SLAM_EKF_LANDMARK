@@ -11,6 +11,6 @@ The picture below is hallway with three landmark set on it.
 </p>
 
 In this simulation, the moving triangle are simulated robot and estimated location of that moving robot. The cross signs are landmark which are set up first. With robot moving along the path, the estimated location of robot and landmark and its corresponding covariance.
-<!--
-[![Watch the video](1_D.gif)]
--->
+
+![](1_D.gif)
+
